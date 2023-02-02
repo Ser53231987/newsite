@@ -1,1 +1,4 @@
 # newsite
+<?php
+echo "Привет";
+?>
